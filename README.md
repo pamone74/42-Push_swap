@@ -20,3 +20,5 @@ Sorting values is simple. To sort them the fastest way possible is less simple. 
 because from one integers configuration to another, the most efficient sorting solution can
 differ.
 
+The pdf file is attached here for more details about the projects.
+The Algogorithm i used is radix sort, pretty simple but not much efficient.
